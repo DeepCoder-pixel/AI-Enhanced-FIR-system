@@ -1,23 +1,23 @@
 # AI-Enhanced FIR Filing & Management System
 
-## 📌 Overview
+##  Overview
 The AI-Enhanced FIR Filing & Management System is a web-based platform designed to digitize and streamline the complaint-to-FIR process. It enables citizens to file complaints online and allows police authorities to review, verify, and assign FIRs in real time through a role-based dashboard system.
 
 The solution improves transparency, efficiency, and accessibility in public safety services while reducing manual delays in FIR registration.
 
 ---
 
-## 🚨 Problem Statement
+##  Problem Statement
 Traditional FIR filing is largely manual, time-consuming, and inconsistent across police stations. Citizens face delays, lack of transparency, and accessibility issues, while police deal with unstructured complaints and inefficient workflows.
 
 ---
 
-## 💡 Solution
+##  Solution
 This platform digitizes the FIR workflow by separating **Complaint Registration** and **FIR Approval**, mirroring real police procedures. It uses AI-assisted logic to categorize complaints, detect emergencies, and prioritize cases, ensuring faster and more transparent processing.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 - Online complaint registration
 - Role-based dashboards (Citizen & Police)
 - Real-time complaint and FIR status tracking
@@ -29,14 +29,14 @@ This platform digitizes the FIR workflow by separating **Complaint Registration*
 
 ---
 
-## 🧠 AI Capabilities
+##  AI Capabilities
 - AI-assisted complaint categorization (rule-based NLP)
 - Emergency detection using keyword severity analysis
 - Voice-to-text input using Google Speech-to-Text (Web Speech API)
 
 ---
 
-## 🏗️ Architecture Overview
+##  Architecture Overview
 - **Frontend:** HTML, CSS, JavaScript
 - **Authentication:** Firebase Authentication
 - **Database:** Cloud Firestore (real-time sync)
@@ -45,7 +45,7 @@ This platform digitizes the FIR workflow by separating **Complaint Registration*
 
 ---
 
-## ☁️ Google Technologies Used
+##  Google Technologies Used
 - Firebase Authentication
 - Cloud Firestore
 - Firebase Storage
@@ -54,7 +54,7 @@ This platform digitizes the FIR workflow by separating **Complaint Registration*
 
 ---
 
-## 👥 User Roles
+##  User Roles
 ### Citizen
 - Register complaints
 - Upload evidence
@@ -69,7 +69,7 @@ This platform digitizes the FIR workflow by separating **Complaint Registration*
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 1. Citizen submits a complaint
 2. Complaint status set to Pending
 3. Police review complaint
@@ -79,7 +79,7 @@ This platform digitizes the FIR workflow by separating **Complaint Registration*
 
 ---
 
-## 🎯 Innovation Highlights
+##  Innovation Highlights
 - Two-stage Complaint → FIR workflow
 - Real-time synchronization between citizens and police
 - AI-assisted prioritization
@@ -87,13 +87,13 @@ This platform digitizes the FIR workflow by separating **Complaint Registration*
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 - Hosted using Firebase Hosting
 - Scalable and cloud-native design
 
 ---
 
-## 🏆 Hackathon Readiness
+##  Hackathon Readiness
 - Fully functional prototype
 - Realistic government workflow
 - High feasibility and social impact
@@ -101,5 +101,5 @@ This platform digitizes the FIR workflow by separating **Complaint Registration*
 
 ---
 
-## 📄 License
+##  License
 This project is created for hackathon and educational purposes.
